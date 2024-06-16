@@ -14,4 +14,4 @@ It utilizes a structure to store student data and utilizes functions for adding,
 The user interface is text-based and operates through a console menu system.
 
 ### 👉 Here is a inside screenshot of this project-
-![Here is a inside screenshot of this project.](https://i.ibb.co/g4P92nb/image.png)
+![screenshot](screenshot.PNG)
